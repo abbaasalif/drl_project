@@ -1,0 +1,1 @@
+{'learning_rate': 0.0711279701466562, 'weight_decay': 0.05113039126717029, 'layers': [64, 32], 'dropout': 0.2560726974925277, 'activation': 'tanh', 'optimizer': 'adam', 'discount_factor': 0.9}
